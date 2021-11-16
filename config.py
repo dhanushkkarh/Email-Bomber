@@ -1,2 +1,2 @@
-email = "testme1891@gmail.com"
-password="SAK*189100*SHAM"
+email = "riyachellani09@gmail.com"
+password="dhanushkkar369"
