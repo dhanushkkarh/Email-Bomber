@@ -15,7 +15,7 @@ bomb_emails = files.readlines()
 
 email = config.email
 password = config.password
-message = sms.txt
+message = config.text
 message_relode = int(input("How many message you want to send:"))
 
 num = 0
